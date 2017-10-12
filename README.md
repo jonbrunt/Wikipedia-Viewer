@@ -1,2 +1,2 @@
 # wikipedia_viewer
-An app that returns results of relevant Wikipedia pages and links on user query, utilizing an API
+An app that returns results of relevant Wikipedia pages and links on user query, utilizing the MediaWiki API, written in plain HTML, CSS, and vanilla JS. The app allows the user to navigate to a random Wikipedia page, or enter a search term and see the top ten Wikipedia page returns, including links to the pages. Due to the use of the fetch() method this app may not render in all browsers, specifically older iOS and Android, and all Opera Mini and IE.
